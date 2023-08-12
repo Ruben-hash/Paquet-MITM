@@ -1,0 +1,70 @@
+[
+    {
+        "Version": "HTTP/1.1",
+        "Date": "2023-06-12 11:10:10.974997",
+        "IP client": "192.168.43.6",
+        "URI": "/bienvenue.html?login=fgh&mdp=grtd",
+        "IP serveur": "192.168.43.4",
+        "Methode": "GET"
+    },
+    {
+        "Version": "HTTP/1.1",
+        "Date": "2023-06-12 11:10:10.975755",
+        "IP client": "192.168.43.6",
+        "URI": "/bienvenue.html?login=fgh&mdp=grtd",
+        "IP serveur": "192.168.43.4",
+        "Methode": "GET"
+    },
+    {
+        "Version": "HTTP/1.1",
+        "contenu": "login=gbtf-c&mdp=tfkgvytkyf",
+        "Date": "2023-06-12 11:10:46.326968",
+        "IP client": "192.168.43.6",
+        "URI": "/bienvenue.html",
+        "IP serveur": "192.168.43.4",
+        "Methode": "POST"
+    },
+    {
+        "Version": "HTTP/1.1",
+        "contenu": "login=gbtf-c&mdp=tfkgvytkyf",
+        "Date": "2023-06-12 11:10:46.327913",
+        "IP client": "192.168.43.6",
+        "URI": "/bienvenue.html",
+        "IP serveur": "192.168.43.4",
+        "Methode": "POST"
+    },
+    {
+        "Version": "HTTP/1.1",
+        "contenu": "login=gbtf-c&mdp=tfkgvytkyf",
+        "Date": "2023-06-12 11:17:33.178998",
+        "IP client": "192.168.43.6",
+        "URI": "/bienvenue.html",
+        "IP serveur": "192.168.43.4",
+        "Methode": "POST"
+    },
+    {
+        "Version": "HTTP/1.1",
+        "contenu": "login=gbtf-c&mdp=tfkgvytkyf",
+        "Date": "2023-06-12 11:17:33.180072",
+        "IP client": "192.168.43.6",
+        "URI": "/bienvenue.html",
+        "IP serveur": "192.168.43.4",
+        "Methode": "POST"
+    },
+    {
+        "Version": "HTTP/1.1",
+        "Date": "2023-06-19 14:25:41.783995",
+        "IP client": "192.168.43.10",
+        "URI": "/bienvenue.html?login=hhh&mdp=hhhh",
+        "IP serveur": "192.168.43.8",
+        "Methode": "GET"
+    },
+    {
+        "Version": "HTTP/1.1",
+        "Date": "2023-06-19 14:25:41.785274",
+        "IP client": "192.168.43.10",
+        "URI": "/bienvenue.html?login=hhh&mdp=hhhh",
+        "IP serveur": "192.168.43.8",
+        "Methode": "GET"
+    }
+]
