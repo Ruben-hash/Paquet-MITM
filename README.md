@@ -32,11 +32,3 @@ Le projet Paquet-MITM se concentre sur l'étude des attaques de l'homme du milie
 ## Contributions
 
 Les contributions à ce projet sont les bienvenues. Si vous avez des suggestions, des améliorations ou de nouvelles idées, n'hésitez pas à soumettre une demande d'extraction.
-
-## Auteur
-
-Ce projet a été développé par Ruben.
-
-## Licence
-
-Ce projet est sous licence MIT - consultez le fichier [LICENSE](LICENSE) pour plus de détails.
